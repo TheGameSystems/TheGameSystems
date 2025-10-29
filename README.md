@@ -10,7 +10,9 @@ Pronouns are he/him
 
 I mess with computers when I'm bored
 
+My primary coding language is HTML (does Scratch count?)
+
 And, I am usually active on the OddWorks Discord Server
 
 
-## So yeah, that's me!
+# So yeah, that's me!
