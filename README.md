@@ -12,7 +12,9 @@ I mess with computers when I'm bored
 
 My primary coding language is HTML (does Scratch count?)
 
+My websites are "https://thegamesystems.github.io" and "http://okids.xyz"
+
 And, I am usually active on the OddWorks Discord Server
 
 
-# So yeah, that's me!
+**So yeah, that's me!**
